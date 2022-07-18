@@ -1,6 +1,5 @@
 # DAB402
 Superstore Retail Analysis 
-Steps
 We will do EDA on the given dataset in following parts:
 
 1. Data Sourcing
